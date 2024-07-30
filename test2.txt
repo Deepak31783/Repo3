@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is A83B-A890
+
+ Directory of C:\Users\Lenovo\Desktop\MyProject1
+
+31-07-2024  02.00 AM    <DIR>          .
+31-07-2024  02.00 AM    <DIR>          ..
+31-07-2024  02.00 AM                 0 test2.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  24,148,275,200 bytes free
